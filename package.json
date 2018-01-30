@@ -1,0 +1,19 @@
+{
+  "name": "censorify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "censortext.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezzworks/censorify.git"
+  },
+  "author": "John Beasley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rezzworks/censorify/issues"
+  },
+  "homepage": "https://github.com/rezzworks/censorify#readme"
+}
